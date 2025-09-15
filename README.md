@@ -1,6 +1,6 @@
 -  Hi, I’m @ChloPUPs
 -  I’m interested in Geometry Dash and video games in general
--  I’m currently learning JavaScript
+-  I’m currently learning nothing
 -  Fun fact: Toothpaste
 
 <!---
